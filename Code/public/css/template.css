@@ -1,0 +1,77 @@
+.outline { 
+  border: solid black 1px;
+  width: 97vw;
+  box-shadow: 7px 7px 7px #706865;
+  margin: 1px 0px 10px 1px;
+}
+
+.navbar-brand-text {
+  display: inline-block;
+  margin-left: 25px;
+  font-weight: 900;
+  font-size: 20px;
+  letter-spacing: -1px;
+}
+
+.navbar-toggleable-md{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+@media (min-width:992px){
+     .navbar-toggleable-md {
+      margin-right: 10%;
+      margin-left: 10%;
+    }
+}
+
+.navbar-collapse {
+  width: 90%!important;
+}
+
+.navbar-collapse ul {
+  margin-right: 60px;
+}
+
+
+
+
+.footer {
+  margin-top: 10px;
+  margin-left: 10%;
+  margin-right:10%;
+}
+
+.footer-text-header {
+  margin-bottom: 15px;
+  font-weight: 900;
+  font-size: 20px;
+  letter-spacing: -1px;
+}
+
+.footer-text-header1 {
+  margin-bottom: 15px;
+  font-weight: 900;
+  font-size: 16px;
+  letter-spacing: -1px;
+}
+
+.footer-link {
+  font-weight: 400;
+  padding: 0;
+  margin-bottom: 10px;
+  color: gray;
+}
+
+.small-footer .nav-link { 
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.astext {
+  background: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+  
